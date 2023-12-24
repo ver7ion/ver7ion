@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ver7ion
+- 🌱 I’m currently learning js
+- 📫 You can reach me either on instagram (777exceptions) or on discord (77vq)
